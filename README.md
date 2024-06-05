@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seansongss&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seansongss&fontSize=90)](https://seansongss.com)
 
 - 📫 How to reach me **seansongss@gmail.com**
 
