@@ -3,7 +3,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest)](https://leetcode.com/seansongss)
 
 - 📫 How to reach me **seansongss@gmail.com**
-- >Or connect with me:)
+- Or connect with me:)
 <p align="left">
 <a href="https://linkedin.com/in/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seansongss" height="30" width="40" /></a>
 <a href="https://instagram.com/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seansongss" height="30" width="40" /></a>
