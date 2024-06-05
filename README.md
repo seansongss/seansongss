@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **seansongss@gmail.com**
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seansongss)](https://github.com/seansongss)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss)](https://leetcode.com/seansongss)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seansongss" height="30" width="40" /></a>
