@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seansongss&fontSize=90)](https://seansongss.com)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seansongss&fontSize=80&animation=fadeIn&desc=Hello%20world!%20I'm%20Sean%20Song,%20a%20student%20at%20University%20of%20Waterloo&descAlignY=70)](https://seansongss.com)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest)](https://leetcode.com/seansongss)
 
