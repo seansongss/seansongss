@@ -4,7 +4,7 @@
 - 📫 How to reach me **seansongss@gmail.com**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seansongss)](https://github.com/seansongss)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest?ext=heatmap)](https://leetcode.com/seansongss)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest)](https://leetcode.com/seansongss)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
