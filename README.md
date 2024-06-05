@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **seansongss@gmail.com**
 - Or connect with me:)
-<p align="left">
+<p align="left" style="margin-left: 3rem">
 <a href="https://linkedin.com/in/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seansongss" height="30" width="40" /></a>
 <a href="https://instagram.com/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seansongss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/seansongss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seansongss" height="30" width="40" /></a>
