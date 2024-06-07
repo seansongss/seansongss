@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seansongss&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Hello%20world!%20I'm%20Sean%20Song,%20a%20student%20at%20University%20of%20Waterloo)](https://seansongss.com)
 
-<a href="https://leetcode.com/seansongss" target="_blank"><img src="https://leetcard.jacoblin.cool/seansongss?theme=fores" /></a>
+<a href="https://leetcode.com/seansongss" target="_blank"><img src="https://leetcard.jacoblin.cool/seansongss?theme=forest" /></a>
 
 ### Connect with me:)
 <p>
