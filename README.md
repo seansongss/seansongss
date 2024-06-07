@@ -8,7 +8,7 @@
       <a href="https://linkedin.com/in/seansongss" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://instagram.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
       <a href="https://www.leetcode.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-      <a href="https://www.leetcode.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=homepage&logoColor=black" /></a>
+      <a href="https://www.leetcode.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/personal-white&style=for-the-badge&logo=homepage&logoColor=black" /></a>
 </p>
 
 ### 🛠 Languages and Tools
