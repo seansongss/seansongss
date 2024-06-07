@@ -1,13 +1,14 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seansongss&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Hello%20world!%20I'm%20Sean%20Song,%20a%20student%20at%20University%20of%20Waterloo)](https://seansongss.com){:target="_blank"}
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest)](https://leetcode.com/seansongss){:target="_blank"}
+[![Leetcode Stats](https://leetcard.jacoblin.cool/seansongss?theme=forest)](https://leetcode.com/seansongss)
+<a href="https://leetcode.com/seansongss" target="_blank"><img src="https://leetcard.jacoblin.cool/seansongss?theme=fores" /></a>
 
 ### Connect with me:)
 <p>
-      <a href="mailto:seansongss@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://linkedin.com/in/seansongss" target="blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://instagram.com/seansongss" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="https://www.leetcode.com/seansongss" target="blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+      <a href="mailto:seansongss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/seansongss" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://instagram.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://www.leetcode.com/seansongss" target="_blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ### 🛠 Languages and Tools
